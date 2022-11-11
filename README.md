@@ -1,5 +1,5 @@
 Technology Used : Nodejs
-Framework : Exppress
+Framework : Express
 Database : MongoDB
 ODM used : Mongoose
 
